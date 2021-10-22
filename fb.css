@@ -1,0 +1,263 @@
+
+.header{
+    background-color: #29487d;
+    width: 100%;
+    height: 85px;
+}
+body{
+    margin: 0cm;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+.logo{
+    width: 50%;
+    padding-top: 30px;
+    float: left;
+
+}
+.login{
+    width: 50%;
+    float: left;
+}
+.logo-text{
+    color: white;
+    font-size: 39px;    
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    padding-left: 131px;
+}
+.login-label{
+    color: #fff;
+    font-size: 11px;
+}
+.login-controls{
+    margin-left: 129px;
+    padding-top: 15px;
+}
+.forgotten{
+    color: #a9b5c7;
+    font-size: 11px;
+    text-decoration: none;
+    position: relative;
+    top: -5px;
+}
+.submit-button{
+    background-color: #4267b2;
+    border-color: #29487d;
+    font-size: 12px;
+    color: #fff;
+    cursor: pointer;
+    border-style: ridge;
+}
+.submit-button:hover{
+    background-color: #063b8c;
+}
+.left-body{
+    width: 50%;
+    float: left;
+    
+}
+.right-body{
+    width: 50%;
+    float: left;
+}
+.body{
+    background: rgb(169,192,218);
+background: linear-gradient(0deg, rgba(169,192,218,1) 0%, rgba(254,254,255,1) 86%);
+    width: 100%;
+    height: 706px;
+}
+.image{
+    width: 50%;
+    height: 50%;
+    padding-left: 145px;
+    position: relative;
+    top: 55px;
+}
+.para{
+    font-weight: bold;
+    font-size: 21px;
+    position: relative;
+    left: 121px;
+}
+.heading{
+     
+    font-weight: bold;
+    padding-left: 111px;
+}
+.para1{
+    font-weight: bold;
+    position: relative;
+    bottom: 17px;
+    padding-left: 114px;
+
+}
+.user-details{
+    padding-left: 114px;
+}
+.user-info{
+    width: 200px;
+    height: 27px;
+    border-radius: 5px;
+    border-style: ridge;
+    font-size: 15px;
+
+
+}
+
+.user-info2{
+
+    width: 410px;
+    height: 27px;
+    border-radius: 5px;
+    border-style: ridge;
+    font-size: 15px;
+    position: relative;
+    bottom: -5px;
+    position: relative;
+    left: 114px;
+    
+
+
+}
+}
+.user-details2{
+    position: relative;
+    padding-left: 114px;
+}
+.user-info3{
+    width: 410px;
+    height: 27px;
+    border-radius: 5px;
+    border-style: ridge;
+    font-size: 15px;
+    position: relative;
+    bottom: -12px;
+    position: relative;
+    left: 114px;
+    
+}
+.user{
+    position: relative;
+    top: -28px;
+    position: relative;
+    left: -3px;
+}
+.birthday{
+    font-weight: bold;
+    color: #545f6b;
+    padding-left: 115px;
+    position: relative;
+    bottom: 15px;
+    font-size: 13px;
+}
+.birth-details{
+    border-radius: 2px;
+    color: #67707a;
+    height: 28px;
+    
+    
+}
+.birth-details1{
+    padding-left: 115px;
+    position: relative;
+    bottom: 26px;
+}
+.gender{
+    font-weight: bold;
+    color: #545f6b;
+    padding-left: 115px;
+    position: relative;
+    bottom: 30px;
+    font-size: 13px;
+}
+.gender-details1{
+    font-weight: bold;
+    color: #2c2e30;
+}
+.gender-details{
+    padding-left: 115px;
+    position: relative;
+    bottom: 43px;
+}
+.TandC{
+    color: #545f6b;
+    font-size: 10px;
+    position: relative;
+    bottom: 41px;
+    padding-left: 115px;
+    
+}
+.link{
+    text-decoration: none;
+    color: #29487d;
+}
+
+.btn-grad {
+	background:linear-gradient(to bottom, #7ac259 5%, #416e2a 100%);
+	background-color:#7ac259;
+	border-radius:6px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	font-weight:bold;
+	padding:7px 55px;
+	text-decoration:none;
+}
+
+.button{
+    position: relative;
+    bottom: 30px;
+    padding-left: 115px;
+}
+
+.end1{
+    text-decoration: none;
+    color: #29487d;
+    font-weight: bold;
+}
+.end{
+    font-size: 13px;
+    position: relative;
+    padding-left: 115px;
+    bottom: 10px;
+}
+
+.footer{
+    width: 100%;
+    height: 185px;
+    float: left;
+    background: rgb(255,255,255);
+background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(119,161,175,1) 75%);
+font-size: 10px;
+}
+.line1{
+    word-spacing: 20px;
+    color: #29487d;
+    padding-left: 175px;
+    position: relative;
+    top: 31px;
+    
+}
+.line{
+    width: 74%;
+    position: relative;
+    top: 30px;
+    color: #e1e1e3;
+}
+.line2{
+    word-spacing: 20px;
+    color: #29487d;
+    padding-left: 175px;
+    position: relative;
+    top: 28px;
+}
+.line3{
+    color: #38383b;
+    padding-left: 175px;
+    padding-top: 66px;
+}
+
+
