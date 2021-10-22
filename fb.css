@@ -68,11 +68,11 @@ background: linear-gradient(0deg, rgba(169,192,218,1) 0%, rgba(254,254,255,1) 86
     height: 706px;
 }
 .image{
-    width: 50%;
+    width: 40%;
     height: 50%;
-    padding-left: 145px;
+    padding-left: 119px;
     position: relative;
-    top: 55px;
+    top: -5px;
 }
 .para{
     font-weight: bold;
